@@ -1,0 +1,2 @@
+As a user I want to add my tasks on a webapp where i can "ADD new tasks" can delete the tasks can mark as a complete which task is done, each task have start and end date with or without time.
+all done tasks can be seen in seprate page, all deleted tasks can be seen in seprate page can apply filters.
